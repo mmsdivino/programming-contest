@@ -1,2 +1,6 @@
 # programming-contest
-My solutions of some problems from different online judges.
+This is my personal repository for contest solutions.
+
+Actually, sources of the problems are:
+* SPOJ (Sphere Online Judge)
+* URI Online Judge 
